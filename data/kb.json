@@ -1,0 +1,62 @@
+{
+  "profile": {
+    "name": "Paramjeet Rout",
+    "location": {
+      "current": "Sector 33, Gurugram, Haryana",
+      "origin": "Basudevpur, Bhadrak, Odisha"
+    },
+    "age": 23.6,
+    "current_role": {
+      "title": "Data Analyst",
+      "company": "Unimarket Response LLP",
+      "period": "October 2025 – Present",
+      "focus": "Product-based survey platform, U.S. market"
+    },
+    "education": {
+      "degree": "B.Tech",
+      "institution": "Gandhi Institute of Excellent Technocrats, Bhubaneswar",
+      "year_range": "2020-2024",
+      "cgpa": 8.4
+    },
+    "technical_skills": {
+      "primary": ["Python", "SQL"],
+      "databases": ["Azure SQL", "PostgreSQL"],
+      "reporting": ["Power BI"],
+      "infrastructure": ["Azure", "Docker"],
+      "development": ["React", "Django"]
+    },
+    "work_experience": [
+      {
+        "role": "Data Analyst",
+        "company": "Unimarket Response LLP",
+        "tasks": ["Data extraction", "Transformation", "Query optimization", "Dashboard maintenance"],
+        "ai_involvement": "Internal AI chatbot initiative (account/earnings queries)"
+      },
+      {
+        "role": "Analyst Associate",
+        "company": "Tech Mahindra",
+        "location": "Ahmedabad",
+        "duration": "1.2 years",
+        "focus": "Corporate data operations, SLA-based reporting"
+      }
+    ],
+    "projects": [
+      {
+        "name": "AI-Powered Customer Support Chatbot",
+        "type": "Work-related",
+        "objective": "Automate user account/earnings queries",
+        "contribution": "Python logic, data retrieval, backend integration"
+      },
+      {
+        "name": "Client and Supplier Performance Dashboard",
+        "type": "Work-related",
+        "objective": "Enable data-driven decision making",
+        "contribution": "Power BI design, SQL view optimization, multi-source integration"
+      }
+    ],
+    "career_goals": {
+      "target_role": "Data Scientist",
+      "interests": ["Python-based automation", "ML workflows", "AI-driven systems"]
+    }
+  }
+}
